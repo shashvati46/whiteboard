@@ -1,0 +1,13 @@
+.paint-canvas{
+    display:block;
+    border: 2px solid black;
+    margin: 20px auto;
+    background-color: white;
+
+}
+
+body{
+    text-align: center;
+    background-color:rgb(23, 105, 94);
+    color: white;
+}
